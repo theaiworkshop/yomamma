@@ -4,10 +4,6 @@ document.getElementById('generateJoke').addEventListener('click', function() {
         "Yo Mama's so fat, when she goes camping, the bears hide their food.",
         "Yo Mama's so old, she knew Burger King when he was a prince.",
         "Yo Mama's so short, she can do backflips under the bed."
-         "Yo Mama's so fat, when she goes camping, the bears hide their food.",
-    "Yo Mama's so stupid, she put two quarters in her ears and thought she was listening to 50 Cent.",
-    "Yo Mama's so old, she knew Burger King when he was a prince.",
-    "Yo Mama's so short, she can do backflips under the bed.",
     "Yo Mama's so poor, when I rang the doorbell, she stuck her head out the window and yelled 'DING DONG!'",
     "Yo Mama's so fat, when she wears a yellow raincoat, people yell 'Taxi!'",
     "Yo Mama's so dumb, she thought a quarterback was a refund.",
