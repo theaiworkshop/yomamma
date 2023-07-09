@@ -82,6 +82,7 @@ document.getElementById('generateJoke').addEventListener('click', function() {
     "Yo Mama's so fat, she sat on Walmart and lowered the prices."
     "Yo Mama's so ugly, she looked out the window and got arrested for mooning.",
     "Yo Mama's so fat, she has more curves than a racetrack.",
+        
     "Yo Mama's so stupid, she tried to put M&M's in alphabetical order.",
     "Yo Mama's so old, she co-authored the Ten Commandments.",
     "Yo Mama's so fat, when she gets on the scale it says 'To be continued.'",
