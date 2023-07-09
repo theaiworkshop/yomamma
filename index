@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yo Mama Joke Generator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Yo Mama Joke Generator</h1>
+    <button id="generateJoke">Generate Joke</button>
+    <p id="joke"></p>
+    <script src="script.js"></script>
+</body>
+</html>
